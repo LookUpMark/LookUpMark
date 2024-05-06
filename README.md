@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LookUpMark
 - 👀 I’m interested in programming!
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently a Python programmer, but I also know other languages such as Java and C.
 - 📫 How to reach me ... Instagram: @_marcu_lo_ / Facebook: Marco Lopez / gmail: marcantoniolopez0@gmail.com
 
 <!---
