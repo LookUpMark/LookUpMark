@@ -8,10 +8,10 @@ I'm passionate about leveraging AI to create innovative solutions. Currently foc
 
 ## 🚀 Highlights
 
-- 🎓 Bachelor's in Computer Engineering (Expected: July 2024)
+- 🎓 Bachelor's in Computer Engineering
 - 🏆 Thesis: "Recurrent Neural Networks for Dynamic Gesture Recognition"
 - 📘 Published research on home automation systems
-- 🌐 Fluent in English (C1 level)
+- 🌐 C1 level English
 
 ## 💻 Tech Stack
 
