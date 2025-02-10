@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm passionate about leveraging Artificial Intelligence and Data Analytics to develop innovative solutions. Currently pursuing a Master's degree in Artificial Intelligence and Data Analytics at Politecnico di Torino, my work focuses on deep learning, machine learning, and big data processing.
+Currently pursuing a Master's degree in Artificial Intelligence and Data Analytics at Politecnico di Torino, my work focuses on deep learning, machine learning, and big data processing.
 
 ## 🚀 Highlights
 
