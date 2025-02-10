@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Marc'Antonio Lopez
 
-🎓 Computer Engineer | 🤖 AI & ML enthusiast | 💻 Python developer
+🎓 Computer Engineer | 🤖 AI & Data Analytics Enthusiast | 💻 Python Developer
 
 ## About Me
 
-I'm passionate about leveraging AI to create innovative solutions. Currently focusing on machine learning and deep learning projects, pursuing a Master's degree in Artificial Intelligence and Data Analytics at Politecnico di Torino.
+I'm passionate about leveraging Artificial Intelligence and Data Analytics to develop innovative solutions. Currently pursuing a Master's degree in Artificial Intelligence and Data Analytics at Politecnico di Torino, my work focuses on deep learning, machine learning, and big data processing.
 
 ## 🚀 Highlights
 
-- 🎓 Bachelor's in Computer Engineering
+- 🎓 Bachelor's in Computer Engineering (110/110 with honors & distinction)
 - 🎓 Master's student in Artificial Intelligence and Data Analytics
 - 🏆 Bachelor's thesis: "Recurrent Neural Networks for Dynamic Gesture Recognition"
 - 📘 Published research on home automation systems
@@ -16,8 +16,24 @@ I'm passionate about leveraging AI to create innovative solutions. Currently foc
 
 ## 💻 Tech Stack
 
-- Python | Java | C
-- Machine Learning | Deep Learning | Artificial Intelligence
+### 🔥 Artificial Intelligence & Machine Learning
+- Deep Learning
+- Advanced Machine Learning
+- Large Language Models (LLMs)
+- Model Training
+- Robot Learning
+- Datasets & Data Preprocessing
+
+### 📊 Big Data & Data Analytics
+- PySpark
+- Hadoop & MapReduce
+- ExtendedSQL, MySQL, MongoDB
+- Data Science & Data Analytics
+
+### 🖥️ Programming Languages
+- Python
+- Java
+- C
 
 [LinkedIn](www.linkedin.com/in/marc-antonio-lopez-50033b234) | [Email](mailto:marcantoniolopez0@gmail.com)
 
