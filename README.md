@@ -1,42 +1,41 @@
 # 👋 Hi, I'm Marc'Antonio Lopez
 
-🎓 Computer Engineer | 🤖 AI & Data Analytics Enthusiast | 💻 Python Developer
+🎓 Computer Engineer | 🤖 AI & Data Analytics Enthusiast | 💻 Python Specialist
 
 ## About Me
 
-Currently pursuing a Master's degree in Artificial Intelligence and Data Analytics at Politecnico di Torino, my work focuses on deep learning, machine learning, and big data processing.
+Currently pursuing a Master's degree in Artificial Intelligence and Data Analytics at Politecnico di Torino, my work focuses on deep learning, machine learning, and big data processing using Python as my primary development environment.
 
 ## 🚀 Highlights
 
 - 🎓 Bachelor's in Computer Engineering (110/110 with honors & distinction)
 - 🎓 Master's student in Artificial Intelligence and Data Analytics
-- 🏆 Bachelor's thesis: "Recurrent Neural Networks for Dynamic Gesture Recognition"
+- 🏆 Bachelor's thesis: "Recurrent Neural Networks for Dynamic Gesture Recognition" (Python implementation)
 - 📘 Published research on home automation systems
 - 🌐 C1 level English
 
-## 💻 Tech Stack
+## 💻 Technical Expertise
 
-### 🔥 Artificial Intelligence & Machine Learning
-- Deep Learning
-- Advanced Machine Learning
+### 🔥 Core Competencies
+- Deep Learning Architectures
+- Machine Learning Pipelines
+- Advanced ML Algorithms
 - Large Language Models (LLMs)
-- Model Training
-- Robot Learning
-- Datasets & Data Preprocessing
+- Deep NLP Techniques
+- Model Training & Optimization
+- Robot Learning Systems
+- Reinforcement Learning
 
-### 📊 Big Data & Data Analytics
-- PySpark
-- Hadoop & MapReduce
-- ExtendedSQL, MySQL, MongoDB
-- Data Science & Data Analytics
+### 🛠️ Python Ecosystem
+- Scientific Computing (NumPy)
+- Data Manipulation (Pandas)
+- Visualization (Matplotlib, Seaborn)
+- Deep Learning Frameworks (TensorFlow, Keras, PyTorch)
+- ML Libraries (Scikit-learn)
+- Big Data Tools (PySpark)
 
-### 🖥️ Programming Languages
-- Python
-- Java
-- C
-
-[LinkedIn](www.linkedin.com/in/marc-antonio-lopez-50033b234) | [Email](mailto:marcantoniolopez0@gmail.com)
+[LinkedIn](www.linkedin.com/in/marc-antonio-lopez-50033b234) | [Email](mailto:marcantoniolopez0@gmail.com) | [Email](mailto:marcantonio.lopez0@ieee.org)
 
 ---
 
-*Innovating the future, one algorithm at a time.*
+*Innovating the future, one Python algorithm at a time.*
