@@ -63,9 +63,9 @@ I'm currently exploring:
 
 ## 📬 Contact  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc'Antonio%20Lopez-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-antonio-lopez-50033b234)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc'Antonio%20Lopez-0077B5?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/marc-antonio-lopez)  
 [![Email](https://img.shields.io/badge/Gmail-marcantoniolopez0%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:marcantoniolopez0@gmail.com)  
-[![IEEE](https://img.shields.io/badge/IEEE-marcantonio.lopez0%40ieee.org-00629B?logo=ieee&logoColor=white)](mailto:marcantonio.lopez0@ieee.org)  
+[![IEEE](https://img.shields.io/badge/IEEE-marcantonio.lopez0%40ieee.org-00629B?logo=ieee&logoColor=white)](mailto:marcantonio.lopez@ieee.org)  
 
 ---
 
