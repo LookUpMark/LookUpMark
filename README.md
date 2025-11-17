@@ -18,7 +18,7 @@ Passionate about **intelligent systems**, I aim to contribute to scientific rese
 - 🎓 **Bachelor’s Degree in Computer Engineering** (110/110 with honors & distinction)  
 - 🎓 **Master’s student** in Artificial Intelligence and Data Analytics  
 - 🧠 **Bachelor’s thesis:** *"Recurrent Neural Networks for Dynamic Gesture Recognition"*  
-- 📘 **Published research** on home automation and embedded AI systems  
+- 📘 **Published research** on home automation  
 - 🏅 **Author of DYLEM-GRID (2025)**: a deep-learning dataset for dynamic hand-gesture recognition  
 - 🌐 **English C1 level**  
 - 🧩 Actively exploring **machine unlearning**, **LLM interpretability**, and **efficient model deployment**
