@@ -1,6 +1,6 @@
 # Hi, I'm Marco — Marc'Antonio Lopez
 
-ML Engineer (incoming Sep 2026) at Intesa Sanpaolo's AI Delivery Center, finishing my M.Sc. in Artificial Intelligence & Data Analytics at Politecnico di Torino. My thesis, developed as a graduate intern at Data Reply, focuses on production-oriented GenAI for metadata management.
+ML Engineer at Intesa Sanpaolo's AI Delivery Center (starting September 14, 2026), finishing my M.Sc. in Artificial Intelligence & Data Analytics at Politecnico di Torino. My thesis, developed as a graduate intern at Data Reply, focuses on production-oriented GenAI for metadata management.
 
 Most of my work sits between LLMs and the plumbing around them: RAG pipelines with LangGraph, fine-tuning with PEFT/LoRA, retrieval quality (hybrid search, reranking), and the boring-but-important parts like evaluation and quantization for hardware that isn't a datacenter.
 
