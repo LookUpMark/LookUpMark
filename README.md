@@ -14,7 +14,7 @@ I build intelligent systems that make human–computer interaction more natural 
 Self-Corrective RAG (Self-CRAG) with LangGraph to handle hallucinations in multi-turn dialogue. Llama 3.1 8B @ 4-bit, hybrid retrieval with parent-child chunking + cross-encoder reranking.
 `Python` `LangGraph` `RAG` `Llama 3.1`
 
-### 📝 SM-SIP — Semantic & Multilingual Salient Information Prompting
+### 📝 [SM-SIP](https://github.com/LookUpMark/sm-sip) — Semantic & Multilingual Salient Information Prompting
 Controllable abstractive summarization with semantic supervision: multilingual pipeline (IT/EN) on Llama & Qwen, token classification to mitigate hallucinations, LoRA adapters on Hugging Face.
 `LLMs` `PEFT` `LoRA` `Hugging Face`
 
