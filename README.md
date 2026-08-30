@@ -10,6 +10,9 @@ Most of my work sits between LLMs and the plumbing around them: RAG pipelines wi
 
 ## Projects
 
+**[SemanticMesh](https://github.com/LookUpMark/semanticmesh)** — M.Sc. thesis project
+LangGraph multi-agent system for data governance: it aligns business documents with relational schemas in a Neo4j knowledge graph. A builder pipeline handles triplet extraction, entity resolution, actor-critic validation and Cypher healing; a query graph combines dense + BM25 + graph traversal with cross-encoder reranking and hallucination grading. Evaluated on 7 datasets, 111 tables, 210 questions: 210/210 grounded answers, zero hallucinations.
+
 **[Multi-Turn Self-Corrective RAG](https://github.com/LookUpMark/semeval-2026-task-8)** — SemEval 2026 Task 8
 Self-CRAG system with LangGraph for grounded multi-turn answers. Hybrid retrieval with parent-child chunking, BGE-M3 embeddings and cross-encoder reranking, feeding a 4-bit quantized Llama 3.1 8B for fully offline inference on consumer hardware.
 
