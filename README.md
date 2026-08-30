@@ -1,14 +1,19 @@
 # 👋 Hi, I'm Marco (Marc'Antonio Lopez)
 
+🤖 **Machine Learning Engineer** (incoming Sep 2026) @ Intesa Sanpaolo — AI Delivery Center
 🎓 M.Sc. student in **Artificial Intelligence & Data Analytics** @ Politecnico di Torino
-💼 **Master's Thesis Intern** in Generative AI @ DATA Reply
+💼 **Graduate Thesis Intern** in Generative AI @ Data Reply
 🌐 [Portfolio](https://lookupmark.github.io) • [LinkedIn](https://linkedin.com/in/marc-antonio-lopez) • [Kaggle](https://kaggle.com/marcantoniolopez)
 
-I build intelligent systems that make human–computer interaction more natural — currently working on **Generative AI, LLMs and agentic pipelines**: fine-tuning transformers, RAG systems, and foundation models for metadata & semantic discovery.
+I build intelligent systems end-to-end: data pipelines, LLM fine-tuning and agent orchestration — from prototype to production. Currently working on **Generative AI, RAG and agentic pipelines**.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🕸️ [SemanticMesh](https://github.com/LookUpMark/semanticmesh) — M.Sc. Thesis
+LangGraph multi-agent system for data governance: aligns business documents with relational schemas in a Neo4j knowledge graph. Builder pipeline (triplet extraction, entity resolution, actor-critic validation, Cypher healing) + query graph (dense + BM25 + graph traversal, cross-encoder rerank, hallucination grading). Evaluated on 7 datasets · 111 tables · 210 questions: **210/210 grounded answers, zero hallucinations**.
+`Python` `LangGraph` `Neo4j` `RAG`
 
 ### 🔁 [SemEval 2026 Task 8 — Multi-Turn RAG](https://github.com/LookUpMark/semeval-2026-task-8)
 Self-Corrective RAG (Self-CRAG) with LangGraph to handle hallucinations in multi-turn dialogue. Llama 3.1 8B @ 4-bit, hybrid retrieval with parent-child chunking + cross-encoder reranking.
@@ -18,17 +23,13 @@ Self-Corrective RAG (Self-CRAG) with LangGraph to handle hallucinations in multi
 Controllable abstractive summarization with semantic supervision: multilingual pipeline (IT/EN) on Llama & Qwen, token classification to mitigate hallucinations, LoRA adapters on Hugging Face.
 `LLMs` `PEFT` `LoRA` `Hugging Face`
 
+### 🔬 [Explainable AI Concept Discovery](https://github.com/LookUpMark/xai-project-5)
+Unsupervised concept discovery in medical Vision-Language Models via Sparse Autoencoders, with a concept-naming module + LLM-as-a-judge to quantify concept faithfulness.
+`Python` `Sparse Autoencoders` `LLM-as-a-Judge`
+
 ### ✋ [DYLEM-GRID](https://github.com/LookUpMark/dylem-grid)
-Deep learning for dynamic hand gesture recognition — BiLSTM with Attention and encoder-only Transformers, trained on the DYLEM-GRID dataset (400 Leap Motion recordings, 4 gestures). 🤗 [Dataset](https://huggingface.co/datasets/LookUpMark/DYLEM-GRID)
+Deep learning for dynamic hand gesture recognition — BiLSTM with Attention and encoder-only Transformers, on the DYLEM-GRID dataset (400 gestures, 100 participants). 🤗 [Dataset](https://huggingface.co/datasets/LookUpMark/DYLEM-GRID)
 `PyTorch` `LSTM` `Attention` `Transformers`
-
-### 🖐️ RNNs for Dynamic Gesture Recognition — B.Sc. Thesis
-Bidirectional RNN for real-time gesture classification from time-series sensor data. 🏅 **110/110 cum laude**
-`Keras` `RNN` `HCI`
-
-### 📷 [Telegram Face Detection](https://github.com/LookUpMark/telegram_face_detection)
-Real-time face detection bot with a Flet GUI — remote detection and Telegram notifications.
-`OpenCV` `Flet` `Python`
 
 ---
 
@@ -40,13 +41,13 @@ Real-time face detection bot with a Flet GUI — remote detection and Telegram n
 | **ML / Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
 | **GenAI / LLMs** | ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white) `PEFT/LoRA` `RAG` `Fine-tuning` `Quantization` |
 | **Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) `Weights & Biases` |
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **M.Sc. AI & Data Analytics** — Politecnico di Torino (2024–2026, in progress)
+- 🎓 **M.Sc. AI & Data Analytics** — Politecnico di Torino (2024–2026, expected 110/110)
   *Thesis: "Generative AI and Foundation Models for Automated Data Engineering and Metadata Orchestration" @ DATA Reply*
 - 🎓 **B.Sc. Computer Engineering** — University of Enna "Kore" (110/110 cum laude)
   *Thesis: "Recurrent Neural Networks for Dynamic Gesture Recognition"*
