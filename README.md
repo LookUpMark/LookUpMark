@@ -5,31 +5,27 @@
 💼 **Graduate Thesis Intern** in Generative AI @ Data Reply
 🌐 [Portfolio](https://lookupmark.github.io) • [LinkedIn](https://linkedin.com/in/marc-antonio-lopez) • [Kaggle](https://kaggle.com/marcantoniolopez)
 
-I build intelligent systems end-to-end: data pipelines, LLM fine-tuning and agent orchestration — from prototype to production. Currently working on **Generative AI, RAG and agentic pipelines**.
+I build end-to-end AI systems: data pipelines, LLM fine-tuning, and agent orchestration with **LangGraph** — from prototype to production, applying AI-assisted coding within enterprise workflows.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🕸️ [SemanticMesh](https://github.com/LookUpMark/semanticmesh) — M.Sc. Thesis
-LangGraph multi-agent system for data governance: aligns business documents with relational schemas in a Neo4j knowledge graph. Builder pipeline (triplet extraction, entity resolution, actor-critic validation, Cypher healing) + query graph (dense + BM25 + graph traversal, cross-encoder rerank, hallucination grading). Evaluated on 7 datasets · 111 tables · 210 questions: **210/210 grounded answers, zero hallucinations**.
-`Python` `LangGraph` `Neo4j` `RAG`
+### 🔁 [SemEval 2026 Task 8 — Multi-Turn Self-Corrective RAG](https://github.com/LookUpMark/semeval-2026-task-8)
+Self-Corrective RAG with LangGraph for grounded answers across multi-turn dialogues. Hybrid retrieval (Parent-Child chunking, BGE-M3 embeddings, Cross-Encoder reranking) + 4-bit NF4 quantization of Llama 3.1 8B for offline inference on consumer hardware.
+`Python` `LangGraph` `Llama 3.1` `RAG`
 
-### 🔁 [SemEval 2026 Task 8 — Multi-Turn RAG](https://github.com/LookUpMark/semeval-2026-task-8)
-Self-Corrective RAG (Self-CRAG) with LangGraph to handle hallucinations in multi-turn dialogue. Llama 3.1 8B @ 4-bit, hybrid retrieval with parent-child chunking + cross-encoder reranking.
-`Python` `LangGraph` `RAG` `Llama 3.1`
+### 📝 [SM-SIP — Multilingual Abstractive Summarization](https://github.com/LookUpMark/sm-sip)
+Controllable abstractive summarization with semantic supervision: multilingual (IT/EN) pipeline integrating Llama and Qwen with token-classification modules to detect and mitigate hallucinations. Open-source package and LoRA adapters (PEFT) published on the Hugging Face Hub.
+`Python` `LLMs` `Hugging Face` `PEFT`
 
-### 📝 [SM-SIP](https://github.com/LookUpMark/sm-sip) — Semantic & Multilingual Salient Information Prompting
-Controllable abstractive summarization with semantic supervision: multilingual pipeline (IT/EN) on Llama & Qwen, token classification to mitigate hallucinations, LoRA adapters on Hugging Face.
-`LLMs` `PEFT` `LoRA` `Hugging Face`
-
-### 🔬 [Explainable AI Concept Discovery](https://github.com/LookUpMark/xai-project-5)
-Unsupervised concept discovery in medical Vision-Language Models via Sparse Autoencoders, with a concept-naming module + LLM-as-a-judge to quantify concept faithfulness.
+### 🔬 [Explainability in AI: Concept Discovery for Medical VLMs](https://github.com/LookUpMark/xai-project-5)
+Unsupervised concept discovery in medical Vision-Language Models via Sparse Autoencoders, pairing a concept-naming module with an LLM-as-a-judge system to quantify concept faithfulness.
 `Python` `Sparse Autoencoders` `LLM-as-a-Judge`
 
-### ✋ [DYLEM-GRID](https://github.com/LookUpMark/dylem-grid)
-Deep learning for dynamic hand gesture recognition — BiLSTM with Attention and encoder-only Transformers, on the DYLEM-GRID dataset (400 gestures, 100 participants). 🤗 [Dataset](https://huggingface.co/datasets/LookUpMark/DYLEM-GRID)
-`PyTorch` `LSTM` `Attention` `Transformers`
+### ✋ [DYLEM-GRID — Gesture Recognition](https://github.com/LookUpMark/dylem-grid)
+BiLSTM with attention and encoder-only Transformer (PyTorch) for dynamic hand-gesture classification, with optimized high-dimensional feature extraction. Dataset published on Kaggle: 400 dynamic gestures, 100 participants. 📊 [Dataset](https://www.kaggle.com/datasets/marcantoniolopez/dylem-grid)
+`PyTorch` `LSTM` `Transformers`
 
 ---
 
@@ -37,22 +33,22 @@ Deep learning for dynamic hand gesture recognition — BiLSTM with Attention and
 
 | Domain | Tools & Libraries |
 |--------|-------------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) |
-| **ML / Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
-| **GenAI / LLMs** | ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white) `PEFT/LoRA` `RAG` `Fine-tuning` `Quantization` |
-| **Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) `Weights & Biases` |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) `SQL` |
+| **ML & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) |
+| **GenAI & LLMs** | ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black) `RAG` `Fine-Tuning` `PEFT/LoRA` `Quantization` `Prompt Engineering` |
+| **Agentic AI & Retrieval** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white) `Hybrid Retrieval` `Reranking` |
+| **MLOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) `Weights & Biases` `Claude Code` `Copilot` |
 
 ---
 
 ## 🎓 Education
 
 - 🎓 **M.Sc. AI & Data Analytics** — Politecnico di Torino (2024–2026, expected 110/110)
-  *Thesis: "Generative AI and Foundation Models for Automated Data Engineering and Metadata Orchestration" @ DATA Reply*
+  *Thesis: "Generative AI and Foundation Models for Automated Data Engineering and Metadata Orchestration"*
 - 🎓 **B.Sc. Computer Engineering** — University of Enna "Kore" (110/110 cum laude)
   *Thesis: "Recurrent Neural Networks for Dynamic Gesture Recognition"*
 
-🏅 IEEE Graduate Student Member • IEEE-Eta Kappa Nu (Mu Nu Chapter) • Cambridge English **C1 Advanced** • 📘 [Published research on home automation](https://lookupmark.github.io) (SUAI Bulletin, 2024)
+📊 **Kaggle Dataset Publication** — DYLEM-GRID (2025) • 🗣️ Cambridge English **C1 Advanced** (2024)
 
 ---
 
@@ -65,4 +61,4 @@ Deep learning for dynamic hand gesture recognition — BiLSTM with Attention and
 
 ---
 
-*Building natural interactions between people and technology.*
+*Building intelligent systems end-to-end.*
